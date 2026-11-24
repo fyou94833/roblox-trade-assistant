@@ -1,0 +1,23 @@
+{
+  "module": "roblox-trade-assistant",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "valuate": {
+      "enabled": true
+    },
+    "history": {
+      "enabled": true
+    },
+    "alerts": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
