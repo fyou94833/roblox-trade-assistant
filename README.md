@@ -62,3 +62,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: roblox-trade-assistant, roblox, trade, assistant, tool, items, history, gaming-tools, trading, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+roblox trade assistant tool items history gaming-tools trading rbx-trade-tool trade-helper-rbx roblox-trade-assistant windows portable prebuilt x64 free download
+related: roblox, trade, assistant, tool, items, history, gaming-tools, trading
